@@ -1,0 +1,165 @@
+{
+  "quotes": [
+    {
+      "quote": {
+        "text": "Far too often, 'software engineering' is neither engineering nor about software.",
+        "author": "Bjarne Stroustrup",
+        "url": "http://www.stroustrup.com/bs_faq.html#really-say-that"
+      }
+    },
+    {
+      "quote": {
+        "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+        "author": "Abelson & Sussman",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Typing is no substitute for thinking.",
+        "author": "Richard W. Hamming",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Programmers should never be satisfied with languages which permit them to program everything, but to program nothing of interest easily.",
+        "author": "Alan Perlis",
+        "url": "http://awards.acm.org/images/awards/140/articles/0132439.pdf"
+      }
+    },
+    {
+      "quote": {
+        "text": "The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.",
+        "author": "Joshua Bloch",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "There is no programming language, no matter how structured, that will prevent programmers from making bad programs.",
+        "author": "Larry Flon",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Premature optimization is the root of all evil.",
+        "author": "Donald Knuth",
+        "url": "http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf"
+      }
+    },
+    {
+      "quote": {
+        "text": "There are two ways to write error-free programs; only the third one works.",
+        "author": "Alan Perlis",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "All problems in computer science can be solved by another level of indirection… But that usually will create another problem.",
+        "author": "David Wheeler",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Even perfect program verification can only establish that a program meets its specification. […] Much of the essence of building a program is in fact the debugging of the specification.",
+        "author": "Fred Brooks",
+        "url": "https://en.wikipedia.org/wiki/No_Silver_Bullet"
+      }
+    },
+    {
+      "quote": {
+        "text": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+        "author": "Edsger W. Dijkstra",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Testing can only prove the presence of bugs, not their absence.",
+        "author": "Edsger W. Dijkstra",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Writing code is like writing poetry: every word, each placement counts. Except that software is harder, because digital poems can have millions of lines which are all somehow interconnected. Try fixing bugs and you often introduce new ones. So far, nobody has found a silver bullet to kill the beast of complexity.",
+        "author": "Stuart Feldman",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "The quality of leadership, more than any other single factor, determines the success or failure of an organization.",
+        "author": "Fred Fiedler & Martin Chemers",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "[Computer science] is not really about computers -- and it's not about computers in the same sense that physics is not really about particle accelerators, and biology is not about microscopes and Petri dishes...and geometry isn't really about using surveying instruments. Now the reason that we think computer science is about computers is pretty much the same reason that the Egyptians thought geometry was about surveying instruments: when some field is just getting started and you don't really understand it very well, it's very easy to confuse the essence of what you're doing with the tools that you use.",
+        "author": "Hal Abelson",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "The purpose of computing is insight, not numbers.",
+        "author": "Richard Hamming",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Computer science is neither mathematics nor electrical engineering",
+        "author": "Alan Perlis",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Do not seek for information of which you cannot make use.",
+        "author": "Anna C. Brackett",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Systems engineering is a highly technical pursuit and if a nontechnical man attempts to direct the systems engineering as such, it must end up in a waste of technical talent below.",
+        "author": "Aeronautical Engineering Review (1957)",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Problems of output are problems of input.",
+        "author": "Austin Kleon",
+        "url": "http://austinkleon.com/2015/11/12/problems-of-output-are-problems-of-input/"
+      }
+    },
+    {
+      "quote": {
+        "text": "Embrace iteration as the road to improvement, but don't let that lull you into rolling out poorly-thought-out crap.",
+        "author": "Kate O'Neill",
+        "url": "https://www.goodreads.com/work/quotes/44682782"
+      }
+    },
+    {
+      "quote": {
+        "text": "We see a lot of feature-driven product design in which the cost of features is not properly accounted. Features can have a negative value to customers because they make the products more difficult to understand and use. We are finding that people like products that just work. It turns out that designs that just work are much harder to produce that designs that assemble long lists of features.",
+        "author": "Douglas Crockford",
+        "url": "https://www.goodreads.com/work/quotes/44682782"
+      }
+    },
+    {
+      "quote": {
+        "text": "What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking — there's the real danger.",
+        "author": "Frank Herbert",
+        "url": ""
+      }
+    }
+  ]
+}
