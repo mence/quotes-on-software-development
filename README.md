@@ -3,12 +3,15 @@
 A simple React page that displays a random quote on the topic of software development. Builds with
 Browserify.
 
-Deployed via Github Pages to [http://quotesonsoftwaredevelopment.com](http://quotesonsoftwaredevelopment.com).
+Deployed via [Github Pages](https://mence.github.io/quotes-on-software-development)
+to [http://quotesonsoftwaredevelopment.com](http://quotesonsoftwaredevelopment.com).
 
 ## Installation
 
 1. `npm install`
 2. `grunt build`
+
+A watcher is available for faster development: `grunt watch`
 
 ## FAQ
 
