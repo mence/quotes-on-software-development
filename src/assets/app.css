@@ -7,34 +7,37 @@ body {
   background: #fff;
   padding: 200px 0;
 }
-  .quote#text {
-    margin: 0 auto;
-    padding: 0 20px;
-    width: 400px;
-  }
-    .quote#text h1 {
-      color: #333;
-      font: 400 20px/30px 'Vollkorn';
-      font-style: italic;
-      margin: 0 0 10px 0;
-      text-indent: -6px;
-    }
-    .quote#text p {
-      color: #c90707;
-      font: 400 12px/18px 'Vollkorn';
-      letter-spacing: 1px;
-      text-transform: uppercase;
-      text-indent: -13px;
-    }
+
+.quote#text {
+  margin: 0 auto;
+  padding: 0 20px;
+  width: 400px;
+}
+
+.quote#text h1 {
+  color: #333;
+  font: 400 20px/30px 'Vollkorn';
+  font-style: italic;
+  margin: 0 0 10px 0;
+  text-indent: -6px;
+}
+
+.quote#text p {
+  color: #c90707;
+  font: 400 12px/18px 'Vollkorn';
+  letter-spacing: 1px;
+  text-indent: -13px;
+  text-transform: uppercase;
+}
 
 p {
   text-align: center;
 }
 
 a {
+  color: #dc322f;
   font-family: 'Quattrocento', serif;
   font-weight: lighter;
-  color: #dc322f;
   text-decoration: none;
 }
 
@@ -43,12 +46,10 @@ a:hover {
 }
 
 #small {
-  font-family: sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: .1em;
   font-family: 'Quattrocento', serif;
+  font-size: .1em;
   font-weight: lighter;
+  letter-spacing: .1em;
   padding-top: 50px;
+  text-transform: uppercase;
 }
-
