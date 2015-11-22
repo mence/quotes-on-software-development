@@ -160,6 +160,251 @@
         "author": "Frank Herbert",
         "url": ""
       }
+    },
+    {
+      "quote": {
+        "text": "Programming is a social activity.",
+        "author": "Robert C. Martin",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "The Scrum idea of a separated Scrum Master is good for Scrum, but not appropriate for most projects. Good development requires not just talkers but doers.",
+        "author": "Bertrand Meyer",
+        "url": "http://www.amazon.com/gp/product/3319051547/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=3319051547&linkCode=as2&tag=timhor0e-20&linkId=Y5RHEUP2KDBYPFZP"
+      }
+    },
+    {
+      "quote": {
+        "text": "Software architecture is the set of design decisions which, if made incorrectly, may cause your project to be cancelled.",
+        "author": "Eoin Woods",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Before software can be reusable it first has to be usable.",
+        "author": "Ralph Johnson",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "You can mass-produce hardware; you cannot mass-produce software - you cannot mass-produce the human mind.",
+        "author": "Michio Kaku",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "Martin Fowler",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?'",
+        "author": "Steve McConnell",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "One of my most productive days was throwing away 1000 lines of code.",
+        "author": "Ken Thompson",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Few companies that installed computers to reduce the employment of clerks have realized their expectations.... They now need more, and more expensive clerks even though they call them 'operators' or 'programmers.'",
+        "author": "Peter F. Drucker",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+        "author": "Martin Golding",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+        "author": "Doug Linder",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Any sufficiently advanced bug is indistinguishable from a feature.",
+        "author": "Brian Kernighan",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Controlling complexity is the essence of computer programming.",
+        "author": "Rich Kulawiec",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Great software, likewise, requires a fanatical devotion to beauty. If you look inside good software, you find that parts no one is ever supposed to see are beautiful too. I'm not claiming I write great software, but I know that when it comes to code I behave in a way that would make me eligible for prescription drugs if I approached everyday life the same way. It drives me crazy to see code that's badly indented, or that uses ugly variable names.",
+        "author": "Paul Graham",
+        "url": "http://www.amazon.com/gp/product/1449389554/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449389554&linkCode=as2&tag=timhor0e-20&linkId=6LTJJJ5NHROU6BDH"
+      }
+    },
+    {
+      "quote": {
+        "text": "One man's crappy software is another man's full time job.",
+        "author": "Jessica Gaston",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "If you cannot grok the overall structure of a program while taking a shower, e.g., with no external memory aids, you are not ready to code it.",
+        "author": "Richard Pattis",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "It's okay to figure out murder mysteries, but you shouldn't need to figure out code. You should be able to read it.",
+        "author": "Steve McConnell",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "It's the only job I can think of where I get to be both an engineer and an artist. There's an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking. On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation.",
+        "author": "Andy Hertzfeld",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Programming languages should be designed not by piling feature on top of feature, but by removing the weaknesses and restrictions that make additional features appear necessary. ",
+        "author": "Anonymous",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Programming languages, like pizzas, come in only two sizes: too big and too small. ",
+        "author": "Richard Pattis",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Reusing pieces of code is like picking off sentences from other people's stories and trying to make a magazine article.",
+        "author": "Bob Frankston",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "We don't manage our time as well as we manage our space. There's an overhead of starting and an overhead of stopping a project because you kind of lose your momentum. And you've got to bracket and put aside all the things you're already doing. So you need reasonably large blocks of uninterrupted time if you're going to be successful at doing some of these things. That's why hackers tend to stay up late. If you stay up late and you have another hour of work to do, you can just stay up another hour later without running into a wall and having to stop. Whereas it might take three or four hours if you start over, you might finish if you just work that extra hour. If you're a morning person, the day always intrudes a fixed amount of time in the future. So it's much less efficient. Which is why I think computer people tend to be night people - because a machine doesn't get sleepy.",
+        "author": "Bill Joy",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "When debugging, novices insert corrective code; experts remove defective code.",
+        "author": "Richard Pattis",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "We have to stop optimizing for programmers and start optimizing for users.",
+        "author": "Jeff Atwood",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Code doesn't exist until it's checked into source control.",
+        "author": "Jeff Atwood",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "We are still in the infancy of naming what is really happening on software development projects.",
+        "author": "Alistair Cockburn",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "In programming, the hard part isn't solving problems, but deciding what problems to solve.",
+        "author": "Paul Graham",
+        "url": "http://www.paulgraham.com/gh.html"
+      }
+    },
+    {
+      "quote": {
+        "text": "Your business success will depend on the extent to which programmers essentially live at your office. For this to be a common choice, your office had better be nicer than the average programmer's home. There are two ways to achieve this result. One is to hire programmers who live in extremely shabby apartments. The other is to create a nice office.",
+        "author": "Paul Graham",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "Startups almost never get it right the first time. Much more commonly you launch something, and no one cares. Don’t assume when this happens that you’ve failed. That’s normal for startups. But don’t sit around doing nothing. Iterate.",
+        "author": "Paul Graham",
+        "url": "http://www.paulgraham.com/die.html"
+      }
+    },
+    {
+      "quote": {
+        "text": "The best way to get a project done faster is to start sooner.",
+        "author": "Paul Graham",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "People often test to decide what color drapes are best, only to learn that they forgot to put windows in the room. ",
+        "author": "Steve Krug",
+        "url": "http://www.amazon.com/gp/product/0321344758/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321344758&linkCode=as2&tag=timhor0e-20&linkId=YYABSRVZQXXOPO6W"
+      }
+    },
+    {
+      "quote": {
+        "text": "It's never too early to think about performance.",
+        "author": "Rebecca Parsons",
+        "url": "http://www.amazon.com/gp/product/059652269X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=059652269X&linkCode=as2&tag=timhor0e-20&linkId=LKQ2MYD5JNA623NM"
+      }
+    },
+    {
+      "quote": {
+        "text": "Some people, when confronted with a problem, think 'I know, I’ll use regular expressions.' Now they have two problems.",
+        "author": "Jamie Zawinski",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "At the end of the day, ship the fucking thing! It’s great to rewrite you code and make it cleaner and by the third time it’ll actually be pretty. But that’s not the point—you’re not here to write code; you’re here to ship products.",
+        "author": "Jamie Zawinski",
+        "url": ""
+      }
+    },
+    {
+      "quote": {
+        "text": "A 50%-good solution that people actually have solves more problems and survives longer than a 99% solution that nobody has because it’s in your lab where you’re endlessly polishing the damn thing. Shipping is a feature. A really important feature. Your product must have it.",
+        "author": "Jamie Zawinski",
+        "url": ""
+      }
     }
   ]
 }
