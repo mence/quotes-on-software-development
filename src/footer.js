@@ -1,16 +1,16 @@
-React = require('react');
+const React = require('react');
 
-Footer = React.createClass({
-  render: function () {
+const Footer = React.createClass({
+  render: function() {
     return (
-      <div id='small'>
+      <div id="small">
         <p>
-          A <a href='http://facebook.github.io/react/' title='React.js'>React</a> experiment.
-          Quotes picked by <a href='http://www.timhordern.com' title='Tim Hordern'>Tim Hordern</a>.
+          A <a href="http://facebook.github.io/react/" title="React.js">React</a> experiment.
+          Quotes picked by <a href="http://www.timhordern.com" title="Tim Hordern">Tim Hordern</a>.
         </p>
       </div>
-    )
-  }
+    );
+  },
 });
 
 module.exports = Footer;

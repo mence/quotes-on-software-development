@@ -23,6 +23,9 @@
     "grunt": "~0.4.5",
     "grunt-browserify": "^4.0.1",
     "grunt-cli": "^0.1.13",
-    "grunt-contrib-watch": "^0.6.1"
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-eslint": "^17.3.1",
+    "grunt-jsonlint": "^1.0.6",
+    "uglifyify": "^3.0.1"
   }
 }

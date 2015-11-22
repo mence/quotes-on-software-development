@@ -1,43 +1,43 @@
-React = require('react');
-ReactDOM = require('react-dom');
+const React = require('react');
+const ReactDOM = require('react-dom');
 
-QuoteComponent = require('./quote');
-FooterComponent = require('./footer');
+const QuoteComponent = require('./quote');
+const FooterComponent = require('./footer');
 
-var quotesJSON = require('./assets/quotes.json');
+const quotesJSON = require('./assets/quotes.json');
 
-var IndexPage = React.createClass({
-  getInitialState: function () {
+const IndexPage = React.createClass({
+  getInitialState: function() {
     return {
       quote: '',
-      author: ''
+      author: '',
     };
   },
 
-  componentDidMount: function () {
-    var randomQuote = quotesJSON.quotes[Math.floor(Math.random() * quotesJSON.quotes.length)];
+  componentDidMount: function() {
+    const randomQuote = quotesJSON.quotes[Math.floor(Math.random() * quotesJSON.quotes.length)];
     this.setQuote(randomQuote);
   },
 
-  setQuote: function (data) {
+  setQuote: function(data) {
     this.setState({
       quote: data.quote.text,
-      author: data.quote.author
+      author: data.quote.author,
     });
   },
 
-  render: function () {
+  render: function() {
     return (
-      <div id='main'>
+      <div id="main">
         <QuoteComponent quote={this.state.quote}
                         author={this.state.author} />
         <p>
-          <a href='./index.html'>Pick another software development quote</a>
+          <a href="./index.html">Pick another software development quote</a>
         </p>
         <FooterComponent />
       </div>
     );
-  }
+  },
 });
 
 ReactDOM.render(
