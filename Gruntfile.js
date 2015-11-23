@@ -49,8 +49,8 @@ module.exports = function(grunt) {
 
   grunt.registerTask('b', 'Shortcut: Builds the application.', ['build']);
   grunt.registerTask('w', 'Shortcut: Starts a watch for the build process.', ['watch']);
-  grunt.registerTask('t', 'Shortcut: Runs tests.', ['watch']);
-  grunt.registerTask('l', 'Shortcut: Lints the application.', ['watch']);
+  grunt.registerTask('t', 'Shortcut: Runs tests.', ['test']);
+  grunt.registerTask('l', 'Shortcut: Lints the application.', ['lint']);
 
   grunt.registerTask('default', ['test', 'build']);
 };
