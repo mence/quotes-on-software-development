@@ -1,5 +1,7 @@
 # Quotes on Software Development
 
+[![Build Status](https://travis-ci.org/mence/quotes-on-software-development.svg?branch=master)](https://travis-ci.org/mence/quotes-on-software-development)
+
 A simple React page that displays a random quote on the topic of software development. Builds with
 Browserify.
 
