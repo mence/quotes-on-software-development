@@ -4,4 +4,4 @@ node_js:
   - "4.0"
   - "stable"
   - "node"
-script: grunt build
+script: grunt
